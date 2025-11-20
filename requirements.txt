@@ -1,0 +1,23 @@
+# Core dependencies for PaliGemma implementation
+
+# Deep learning framework
+torch>=2.0.0
+
+# Transformers library for tokenizers and utilities
+transformers>=4.30.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Numerical operations
+numpy>=1.21.0
+
+# Safe tensor format for model weights
+safetensors>=0.3.0
+
+# HuggingFace Hub for model downloading
+huggingface-hub>=0.16.0
+
+# Optional: for Jupyter notebook compatibility
+# ipython>=8.0.0
+# jupyter>=1.0.0
